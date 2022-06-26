@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A02CB34-7A1D-4C9C-8D27-6AA2F3BF8977}</ProjectGuid>
+    <ProjectGuid>{91C96BAD-42C7-40AF-8E43-DAF52904B431}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2.ThreadPool</RootNamespace>
-    <AssemblyName>2.ThreadPool</AssemblyName>
+    <RootNamespace>_2.ThreadPoolBasic</RootNamespace>
+    <AssemblyName>2.ThreadPoolBasic</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
